@@ -1,0 +1,9 @@
+cliente: Estou bem 
+chatbot: Eu tambem, voce gosta de F1?
+Cliente: sim
+chatbot: Que legal, qual seu piloto favorito?
+Cliente: Eu gosto do Leclerc
+chatbot: Que legal,eu gosto do Hamilton
+Cliente: Estou bem
+chatbot:ok
+Cliente: sim
